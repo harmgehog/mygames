@@ -7,7 +7,7 @@ import grid
 framex, framey = 480, 480
 frameY = framey + 240
 pg.init()
-pg.display.set_caption('Snake Game better tame')
+pg.display.set_caption('Snake Game better tame Polstyanov')
 game_window = pg.display.set_mode((framex, frameY))
 
 black = pg.Color(33, 33, 33)
